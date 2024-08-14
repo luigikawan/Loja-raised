@@ -1,0 +1,9 @@
+.cabeçalho__menu-hamburguer {
+    width: 2px;
+    height: 2px;
+    display: inline-block;
+    background-image: url("../Loja-de-roupa/imagens/carrinho.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
